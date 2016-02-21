@@ -13,7 +13,7 @@ print('Welcome to CoderDojo Denver, {}, we are very happy to have you with us!'.
 
 home_dir = os.getenv('HOME')
 if not home_dir:
-    home_dir = raw_input('What is the full disk path of your $HOME directory? enter it like this: /home/username   : ')
+    home_dir = raw_input('What is the full disk path of your $HOME directory? enter it like this: /Users/username   : ')
 
 try:
     os.mkdir('{}/Desktop/{}'.format(home_dir, username))
