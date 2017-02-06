@@ -1,0 +1,8 @@
+.idea
+
+instructions/*.pdf
+linux/*.deb
+mac/*.zip
+mac/*.dmg
+windows/*.exe
+

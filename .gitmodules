@@ -1,0 +1,21 @@
+[submodule "code/Advanced-JavaScript"]
+	path = code/Advanced-JavaScript
+	url = https://github.com/CoderDojoDenver/Advanced-JavaScript
+[submodule "code/Advanced-HTML-CSS"]
+	path = code/Advanced-HTML-CSS
+	url = https://github.com/CoderDojoDenver/Advanced-HTML-CSS
+[submodule "code/Intermediate-HTML-CSS"]
+	path = code/Intermediate-HTML-CSS
+	url = https://github.com/CoderDojoDenver/Intermediate-HTML-CSS
+[submodule "code/Intermediate-JavaScript"]
+	path = code/Intermediate-JavaScript
+	url = https://github.com/CoderDojoDenver/Intermediate-JavaScript
+[submodule "code/Beginner-JavaScript"]
+	path = code/Beginner-JavaScript
+	url = https://github.com/CoderDojoDenver/Beginner-JavaScript
+[submodule "code/MyFirstWebsite"]
+	path = code/MyFirstWebsite
+	url = https://github.com/CoderDojoDenver/MyFirstWebsite
+[submodule "code/ecard-sushi"]
+	path = code/ecard-sushi
+	url = https://github.com/CoderDojoDenver/ecard-sushi
